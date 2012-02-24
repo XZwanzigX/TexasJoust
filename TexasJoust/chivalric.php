@@ -33,10 +33,10 @@
 							<img src="img/headings/chivalric.png" style="position:relative;top: 20px; left:80px;">
 							<div id="bodyText" class="regularBodyText">														
                     			<p><p>Mark your calendars!
-								<br>Come join us in Austin Texas for the inaugural year of the Chivalric Martial Arts International Symposium. 
-								<p>Do you have a love of the Western European martial arts but are looking to take your skills to the next level?  CMAI will give you the opportunity to train with some of the finest instructors from around the world in all aspects of the chivalric martial arts from the 14th, 15th and 16th centuries. 
-								<p>CMAI will give you the skills to better pursue the arts of: riding, several forms of mounted combat, longsword, poleaxe, spear, dagger and even jousting.  Riding experience is not a prerequisite as we will have several tracks for beginning ridersand a number of horses will be supplied for those in need. 
-								<p>Participants in the CMAI symposium will also have the opportunity to use their newfound skills in a series of mounted and foot combat tournaments during the Lysts on the Lake jousting tournament on May 4, 5 and 6, 2012.
+                                <br>Come join us in Austin Texas for the inaugural year of the Chivalric Martial Arts International Symposium.
+                                <p>Do you have a love of the Western European martial arts but are looking to take your skills to the next level? CMAI will give you the opportunity to train with some of the finest instructors from around the world in all aspects of the chivalric martial arts from the 14th, 15th and 16th centuries.
+                                <p>CMAI will give you the skills to better pursue the arts of: riding, several forms of mounted combat, longsword, poleaxe, spear, dagger and even jousting. Riding experience is not a prerequisite as we will have several tracks for beginning riders and a number of horses will be supplied for those in need.
+                                <p>Participants in the CMAI symposium will also have the opportunity to use their newfound skills in a series of mounted and foot combat tournaments during the Lysts on the Lake jousting tournament on May 11,12 and 13, 2012.
 
 			                </div>
 				        </div>

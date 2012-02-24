@@ -36,13 +36,13 @@
       <?php include("template/top.htm"); ?>
 
       <!--<img src="img/template/mastheadHome.jpg">-->
-	  <img src="img/newImgs/HomeBlankNoNav.jpg">
+	  <img src="img/newImgs/HomeBlankNoNav2.jpg">
       <img src="img/template/lBarH.jpg" style="position:absolute; top:315px; left:0px;">
 	  <div id="mainText" class="homePageContentPane">
 	    <div id="contentTxt" class="homePageText">
 			<div id="winners" class="winnerPane">
-				<p>Lysts on the Lake is the largest competitive jousting tournament in  North America.  This is not a renaissance festival or dinner theater stunt show but a real competitive sporting event. The finest horsemen and women trained in the medieval equestrian martial arts travel from around the world to be a part of this prestigious event.  
-				<p>Join us on the private estate of video game developer, entrepreneur and astronaut, Richard Garriott, as you experience competitive jousting.....the original extreme sport! 
+				<p>Lysts on the Lake is the largest competitive jousting tournament in world today.  This is not a renaissance festival or dinner theater stunt show but a real competitive sporting event. The finest horsemen and women trained in the medieval equestrian martial arts travel from around the world to be a part of this prestigious event.
+				<p>Join us at the <a href="http://www.taylorrodeo.com/" class="textLink" target="_new">Taylor Rodeo Association</a> arena in Taylor, Texas and experience competitive jousting.....the original extreme sport!
 				
 				<p>The armour is real!
 				<br>The lances are real!
